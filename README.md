@@ -3,7 +3,7 @@
 
 ### + 웹 기초 +
 <ul> 
-<li><a href="web &web service.md"> web &web service </a></li>
+<li><a href="1/web &web service.md"> web &web service </a></li>
 <li><a href="웹 서버.md"> 웹 서버 만드는 방법 </a></li>
 <li><a href="html.md"> HTML </a></li>
 <li><a href="html.html"> HTML 실습 </a></li>
