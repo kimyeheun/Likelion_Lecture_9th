@@ -51,6 +51,9 @@
 <li><a href="5/필드 옵션.png"> 필드 옵션 </a></li>
 <li><a href="5/git.md"> git </a></li>
 <li><a href="5/CRUD.md"> CRUD </a></li>
+<li><a href="6/Static.md"> Static </a></li>
+<li><a href="6/Form.md"> Form </a></li>
+<li><a href="6/User 확장과 인증.md"> User 확장과 인증 </a></li>
 </ul> 
   
   
