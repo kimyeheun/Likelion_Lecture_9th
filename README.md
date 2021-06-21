@@ -41,6 +41,17 @@
 <li><a href="4/터미널 명령어.md"> 터미널 명령어 </a></li>
 <li><a href="4/Django FrameWork.md"> Django FrameWork </a></li>
 </ul> 
+
+### + Django +
+<ul>
+<li><a href="5/MTV 패턴 이해하기.md"> MTV 패턴 이해하기 </a></li>
+<li><a href="5/실습.md"> 실습 </a></li>
+<li><a href="5/Model 실습.md"> Model 실습 </a></li>
+<li><a href="5/DB_type.png"> 필드  </a></li>
+<li><a href="5/필드 옵션.png"> 필드 옵션 </a></li>
+<li><a href="5/git.md"> git </a></li>
+<li><a href="5/CRUD.md"> CRUD </a></li>
+</ul> 
   
   
   
