@@ -56,6 +56,16 @@
 <li><a href="6/User 확장과 인증.md"> User 확장과 인증 </a></li>
 </ul> 
   
+### + Django 배포+
+<ul>
+<li><a href="7/Django 배포 준비.md"> Django 배포 준비 </a></li>
+<li><a href="7/Heroku 배포하기.md"> Heroku 배포하기 </a></li>
+<li><a href="7/AWS EC2 (Ubuntu) 배포.md"> AWS EC2 (Ubuntu) 배포 </a></li>
+<li><a href="7/DOCKER.md"> Docker </a></li>
+<li><a href="7/Docker로 배포하기.md"> Docker로 배포하기 </a></li>
+<li><a href="7/Docker 서버에 배포하기.md"> Docker 서버에 배포하기 </a></li>
+<li><a href="7/Docker 이미지 자동 생성.md"> Docker 이미지 자동 생성 </a></li>
+</ul> 
   
   
   
